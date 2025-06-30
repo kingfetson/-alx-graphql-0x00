@@ -1,0 +1,19 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 3,
+        "prev": 1
+      },
+      "results": [
+        { "id": "21", "name": "Aqua Morty" },
+        { "id": "22", "name": "Aqua Rick" },
+        { "id": "23", "name": "Arcade Alien" },
+        { "id": "24", "name": "Armagheadon" },
+        { "id": "25", "name": "Armothy" }
+      ]
+    }
+  }
+}

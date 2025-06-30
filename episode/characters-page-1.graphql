@@ -1,5 +1,5 @@
 query {
-  characters(page: 4) {
+  characters(page: 1) {
     info {
       count
       pages
